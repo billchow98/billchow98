@@ -1,4 +1,5 @@
-## Hi there 👋
+<!-- ## Hi there 👋 -->
+<img src="https://github.githubassets.com/assets/gc_banner_light-24900d64bc7a.png" />
 
 <!--
 **billchow98/billchow98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
