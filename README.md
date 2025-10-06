@@ -1,5 +1,14 @@
-<!-- ## Hi there 👋 -->
-<img src="https://github.githubassets.com/assets/gc_banner_light-24900d64bc7a.png" />
+## Hi! I'm Guan Ze 👋
+
+- 🎓 I’m a student at **Cornell University** with interests in **machine learning** and **high-performance systems**
+- 🌱 I’m currently learning about **distributed systems**
+- 👯 I’m looking to collaborate on open-source projects
+- ⚡ Connect with me on **[LinkedIn](https://www.linkedin.com/in/gzchow/)**!
+- 📫 Contact me at **[gc598@cornell.edu](mailto:gc598@cornell.edu)**!
+
+<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=billchow98&layout=compact)](https://github.com/billchow98)
 
 <!--
 **billchow98/billchow98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
