@@ -1,4 +1,4 @@
-## Hi! I'm Guan Ze 👋
+## Hello world! I'm Guan Ze 👋
 
 - 🎓 I’m a student at **Cornell University** with interests in **machine learning** and **high-performance systems**
 - 🌱 I’m currently learning about **distributed systems**
