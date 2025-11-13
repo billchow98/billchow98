@@ -1,7 +1,5 @@
 ## Hello world! I'm Bill 👋
 
-- 🎓 I’m a student at **Cornell University** with interests in **high-performance systems** and **machine learning**
-- 🌱 I’m currently learning about **distributed systems**
 - 👯 I’m looking to collaborate on open-source projects
 - ⚡ Connect with me on **[LinkedIn](https://www.linkedin.com/in/gzchow/)**!
 - 📫 Contact me at **[billchow98@gmail.com](mailto:billchow98@gmail.com)**!
