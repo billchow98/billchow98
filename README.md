@@ -1,7 +1,7 @@
 ## Hello world! I'm Bill 👋
 
 - 👯 I’m looking to collaborate on open-source projects
-- ⚡ Connect with me on **[LinkedIn](https://www.linkedin.com/in/gzchow/)**!
+- ⚡ Connect with me on **[LinkedIn](https://www.linkedin.com/in/billchow98/)**!
 - 📫 Contact me at **[billchow98@gmail.com](mailto:billchow98@gmail.com)**!
 
 <br />
