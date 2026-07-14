@@ -1,4 +1,4 @@
-## Hello world! I'm Bill 👋
+## Hello world! I'm Guan Ze 👋
 
 - 👯 I’m looking to collaborate on open-source projects
 - ⚡ Connect with me on **[LinkedIn](https://www.linkedin.com/in/gzchow/)**!
